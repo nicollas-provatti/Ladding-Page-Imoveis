@@ -24,4 +24,4 @@ O site é totalmente responsivo, com:
 
 ---
 
-![Deploy](https://nicollas-provatti.github.io/Ladding-Page-Imoveis/)
+[Deploy](https://nicollas-provatti.github.io/Ladding-Page-Imoveis/)
